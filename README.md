@@ -1,5 +1,5 @@
 # hubot-ttc-team-building
-hubot script to prove of why some of projects are delayed.
+:scream_cat: hubot script to prove of why some of projects are delayed.
 
 See [`src/ttc.coffee`](src/ttc.coffee) for full documentation.
 
