@@ -51,7 +51,12 @@ ttc = [
   "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1626.jpg?raw=true",
   "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1628.jpg?raw=true",
   "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1629.jpg?raw=true",
-  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1632.jpg?raw=true"
+  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1632.jpg?raw=true",
+  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1633.jpg?raw=true",
+  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1634.jpg?raw=true",
+  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1635.jpg?raw=true",
+  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1636.jpg?raw=true",
+  "https://github.com/sagasu/hubot-ttc-team-building/blob/master/img/IMG_1637.jpg?raw=true"
 ]
 
 module.exports = (robot) ->
