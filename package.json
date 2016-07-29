@@ -1,0 +1,23 @@
+{
+  "name": "hubot-ttc-team-building",
+  "version": "1.0.0",
+  "description": "ttc team building motivation",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagasu/hubot-ttc-team-building.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "Mateusz Kopij <sagasu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagasu/hubot-ttc-team-building/issues"
+  },
+  "homepage": "https://github.com/sagasu/hubot-ttc-team-building#readme"
+}
